@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Stoke&display=swap');
+
+.nav-item {
+    position: relative;
+    font-size: 20px;
+    font-weight: normal;
+    /* letter-spacing: 0.rem; */
+    color: black;
+}
+
+.lists:hover {
+    border-bottom: 3px solid #13d68f;
+    bottom:-7px;
+}
+
+.navbutton{
+
+        position: relative;
+        font-size: 20px;
+        font-weight: normal;
+        /* letter-spacing: 0.rem; */
+        color: black
+        
+}
+.navbutton:hover{
+    background-color: #13d68f;
+}
+
+/* .nav-link:after{
+    content: "";
+    position: absolute;
+    background-color: #ffc107;
+    height:3px;
+    width: 0;
+    left: 0;
+    bottom: -6px;
+    transition: 0.2s;
+} */
